@@ -1,0 +1,10 @@
+Nom: fatima
+Prénom: rr
+Salaire Brut: 2220
+Prime: 222
+IR: 122
+CIMR: 100
+AMO: 50
+CNSS: 142
+Salaire Net: 2028
+-------------------------------
